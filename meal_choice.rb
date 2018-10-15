@@ -1,3 +1,3 @@
 def meal_choice(choice = "meat")
-  cho ice
+  choice
 end
